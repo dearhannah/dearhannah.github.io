@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Han Meng
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Han
+last_name: Meng
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: 
 
 # Status emoji
 status:
-  icon: 🚀
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,65 +23,68 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Data Driven Decision Intelligence (D3i) Lab
+    url: https://haipeng-chen.github.io/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'hmeng@wm.edu'
+  #   # label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/MissMenghan
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/dearhannah
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/han-meng-9657b51b4
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=Cd76uZgAAAAJ&hl
+  - icon: book-open
+    url: https://openreview.net/profile?id=%7EHan_Meng1
 
 interests:
   - Large Language Models
-  - Computer Vision
+  - ODE/SDE-based Generative Models
   - Reinforcement Learning
-  - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Applied Science (Data Science Track)
+    institution: College of William & Mary
+    icon: "circle-stack"
+    date_start: 2024-08-15
+    date_end:
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+      Working on Generative Models
+    
+  - area: MS Computer Science and Engineering 
+    institution: Michigan State Unicersity
+    icon: "code-bracket"
+    date_start: 2022-01-01
+    date_end: 2024-04-30
     summary: |
-      GPA: 4.0/4.0
+      Working on Drug Discovery
+      GPA: 3.89/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+  - area: MS Materials Science and Engineering
+    institution: Michigan State Unicersity
+    icon: "devicon/atom"
+    date_start: 2019-08-15
+    date_end: 2021-04-30
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.91/4.0
 
-      Minored in Mathematics. President of AI Club.
+  - area: BE Nanomaterials and Nanotechnology
+    institution: University of Science and Technology, Beijing
+    icon: "book-open"
+    date_start: 2014-09-01
+    date_end: 2018-06-16
+    summary: |
+      GPA: 3.85/4.0
 
 work:
   - position: Senior AI Research Scientist
@@ -114,10 +117,10 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
+      # - name: Cloud Computing (AWS/GCP)
+      #   description: ''
+      #   percent: 85
+      #   icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -169,4 +172,9 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a second-year Ph.D. student in Data Science at the College of William & Mary, advised by Prof. Haipeng Chen.
+
+My research lies at the intersection of reinforcement learning and generative modeling, including both transformer-based large language models (LLMs) and diffusion models.
+I am particularly interested in physics-inspired and health-related applications that bridge machine learning with real-world impact.
+
+Outside of research, I am a 100% cat lover. 🐾

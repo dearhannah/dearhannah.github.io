@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+  <!-- Central atom -->
+  <circle cx="12" cy="12" r="2" fill="currentColor"/>
+  
+  <!-- Bond lines -->
+  <line x1="12" y1="12" x2="8" y2="8" stroke="currentColor" stroke-width="2"/>
+  <line x1="12" y1="12" x2="16" y2="8" stroke="currentColor" stroke-width="2"/>
+  <line x1="12" y1="12" x2="12" y2="6" stroke="currentColor" stroke-width="2"/>
+  <line x1="12" y1="12" x2="8" y2="16" stroke="currentColor" stroke-width="2"/>
+  <line x1="12" y1="12" x2="16" y2="16" stroke="currentColor" stroke-width="2"/>
+  <line x1="12" y1="12" x2="12" y2="18" stroke="currentColor" stroke-width="2"/>
+  
+  <!-- Outer atoms -->
+  <circle cx="8" cy="8" r="1.5" fill="currentColor"/>
+  <circle cx="16" cy="8" r="1.5" fill="currentColor"/>
+  <circle cx="12" cy="6" r="1.5" fill="currentColor"/>
+  <circle cx="8" cy="16" r="1.5" fill="currentColor"/>
+  <circle cx="16" cy="16" r="1.5" fill="currentColor"/>
+  <circle cx="12" cy="18" r="1.5" fill="currentColor"/>
+</svg>

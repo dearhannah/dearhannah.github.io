@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: indigo
+  color: green
 
 # SEO
 marketing:
@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: "Han (Hannah) Meng's Personal Website"
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -35,22 +35,22 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'Hello!'
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Han Meng. This work is licensed under {license}'
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
       allow_commercial: false
 
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04'
 
 # Site features
 features:
